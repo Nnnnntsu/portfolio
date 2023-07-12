@@ -214,7 +214,7 @@ h3 {
     width: 100%;
     margin: 0 auto 100px auto;
     height: 100vh; /* 空の要素なので、高さの定義が必要です。 */
-    background-image: url("../../img/top_01.jpg");
+    background-image: url("../../img/top_03.jpg");
     background-size: cover;
 }
 
